@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Temilola007
 - 👀 I’m interested in software development and design 
-- 🌱 I’m currently learning react.js and ruby
+- 🌱 I’m currently self-learning react.js and ruby, and i am enrolled in the ALX Africa software engineering program.
 - 💞️ I’m looking to collaborate on projeccts to help improve my skills
 
 
