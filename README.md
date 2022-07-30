@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Temilola007
-- 👀 I’m interested in software development and design 
-- 🌱 I’m currently self-learning web development
+- 👀 I’m interested in User experience design and software development 
+- 🌱 I’m currently training with Zuri and Ingressive for good as a Product designer, learning skills needed to be a UX designer with Google on Coursera, and self-learning web development
 - 💞️ I’m looking to collaborate on projeccts to help improve my skills
 
 
